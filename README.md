@@ -17,7 +17,7 @@
 - [ ]  Period Tracker with Custom Note adding.
 
 <p align="center">
-  <img src="##" />
+  <img src="https://github.com/mayur-ud/ieee-naari-arogya/blob/master/3.png" />
 </p>
 
 ------------
@@ -78,6 +78,7 @@
 * [Ankit Kumar](https://github.com/ankit-pn)
 * [Mayur Sonkusare](https://github.com/mayur-ud)
 * [Parag JhunjhunWala](https://github.com/paragjjw)
+* 
 ---
 ## Video Link
 For the video demonstration, [click here](https://youtu.be/nsuzpy18ZJk)
