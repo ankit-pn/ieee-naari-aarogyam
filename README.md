@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+<p align="left">
+	<img width="240" src="https://github.com/mayur-ud/ieee-naari-aarog/blob/master/logo.png" />
+	</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+	<h2 align="left"> NaariAarogyam </h2>
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Functionalities
+- [ ]  Different Signup/Login functionality for Users and Hospitals. 
+- [ ]  Users can view their report and exercise blogs, while Hospitals can View and Upload reports and exercise blogs.
+- [ ]  Secure storage of reports on IPFS (Interplantery File System) with the help of ethereum blockchain.
+- [ ]  All data of Users is stored on Ethereum blockchain(Goerli TestNet).
+- [ ]  Special Workout Demonstration for Women .
+- [ ]  Period Tracker with Custom Note adding.
 
-### `npm start`
+<p align="center">
+  <img src="##" />
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+------------
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack
+- [ ]  ReactJS
+- [ ]  IPFS
+- [ ]  Blockchain - Ethereum
+- [ ]  Web3.Storage
+- [ ]  Truffle
+- [ ]  Replit
+- [ ]  NodeJS
+- [ ]  Goerli TestNet
+- [ ]  Infura.io
+- [ ]  Solidity
 
-### `npm test`
+-------------
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How this DApp works ?
+- [ ] Authentication is handled by backend and stored on MongoDB
+- [ ] During Login of Users / Hospitals details are verified
+- [ ] Post-Login all restricted routes are secured
+#### User Reports Storage 
+- [ ] To view Reports , either by User or Hospital(required to enter UserId) , ContentID are fetched for that user
+- [ ] Reports are stored on IPFS using Web3.storage
+- [ ] IPFS is a decentralised File System to store data securely
+- [ ] ContentID is the unique identifier for each file uploaded on IPFS
+- [ ] The data of CID's linked with UserId are stored on Ethereum blockchain
+- [ ] For the purpose of testing Goerli TestNet is used
+- [ ] To connect Node backend to Ethereum blockchain Infura.io API was called
+- [ ] Upon Fetching data Frontend Displays it
+#### Period Tracker
+- [ ] Browse through the Calendar and add Date for periods
+- [ ] With each Date you add(must be unique for user) , additional details can be added
+- [ ] This can be used to get better evaluation of health
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Instructions to use DApp 
+####Users
+- [ ] Signup(or Login) as Patient
+- [ ] View Reports at an Centralised place with absolute security
+- [ ] Track Your Monthly periods to see any inconsistencies . Add optional detailed notes with each entry
+- [ ] Browse through various health blogs uploaded by Verified hospitals 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+####Hospitals
+- [ ] Signup(or Login) as Hospital
+- [ ] View Docs of any patient just by their UserID
+- [ ] Browse through all patient history at centralised place to give accurate treatments
+- [ ] Upload blogs that'll help patients to maintain/improve their health
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deploys
+- [ ] *Replit* -> [View](https://ieee-frontend.sonkusaremayur0.repl.co/)
+- [ ] *Vercel* -> [View](https://ieee-naari-aarogyam.vercel.app/)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributors
+* [Ankit Kumar](https://github.com/ankit-pn)
+* [Mayur Sonkusare](https://github.com/mayur-ud)
+* [Parag JhunjhunWala](https://github.com/paragjjw)
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Presentation 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+For the detailed view of our project, [click here](##)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+## Video Link
+For the video demonstration, [click here](##)
