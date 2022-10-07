@@ -69,7 +69,7 @@
 - [ ] Upload blogs that'll help patients to maintain/improve their health
 
 ## Deploys
-- [ ] *Replit* -> [View](https://ieee-frontend.sonkusaremayur0.repl.co/)
+- [ ] *Replit* -> [View](https://ieee-naari-arogya--sonkusaremayur0.repl.co/login/patient)
 - [ ] *Vercel* -> [View](https://ieee-naari-aarogyam.vercel.app/)
 
 
