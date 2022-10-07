@@ -79,11 +79,11 @@
 * [Mayur Sonkusare](https://github.com/mayur-ud)
 * [Parag JhunjhunWala](https://github.com/paragjjw)
 ---
+## Video Link
+For the video demonstration, [click here](https://youtu.be/nsuzpy18ZJk)
+---
 
 ## Presentation 
 
 For the detailed view of our project, [click here](##)
 
----
-## Video Link
-For the video demonstration, [click here](##)
