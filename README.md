@@ -1,5 +1,5 @@
 <p align="left">
-	<img width="240" src="https://github.com/mayur-ud/ieee-naari-aarog/blob/master/logo.png" />
+	<img width="240" src="https://github.com/mayur-ud/ieee-naari-arogya/blob/master/logo.png" />
 	</p>
 
 <p align="center">
