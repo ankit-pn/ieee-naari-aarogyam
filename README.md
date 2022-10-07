@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 	<img width="240" src="https://github.com/mayur-ud/ieee-naari-arogya/blob/master/logo.png" />
 	</p>
 
@@ -16,9 +16,6 @@
 - [ ]  Special Workout Demonstration for Women .
 - [ ]  Period Tracker with Custom Note adding.
 
-<p align="center">
-  <img src="https://github.com/mayur-ud/ieee-naari-arogya/blob/master/3.png" />
-</p>
 
 ------------
 
