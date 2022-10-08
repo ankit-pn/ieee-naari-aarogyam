@@ -81,7 +81,4 @@
 For the video demonstration, [click here](https://youtu.be/nsuzpy18ZJk)
 ---
 
-## Presentation 
-
-For the detailed view of our project, [click here](##)
 
